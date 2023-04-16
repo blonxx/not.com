@@ -14,7 +14,7 @@ const FeaturedProducts = () => {
             Latest products
           </span>
           <p className="text-2xl-regular text-gray-900 max-w-lg mb-4">
-            Our newest styles are here to help you look your best.
+            Explore our latest product and find what fits best for you.
           </p>
           <UnderlineLink href="/store">Explore products</UnderlineLink>
         </div>

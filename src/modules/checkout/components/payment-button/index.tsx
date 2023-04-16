@@ -162,7 +162,7 @@ const StripePaymentButton = ({
   )
 }
 
-const PAYPAL_CLIENT_ID = process.env.NEXT_PUBLIC_PAYPAL_CLIENT_ID || ""
+const PAYPAL_CLIENT_ID = process.env.NEXT_PUBLIC_PAYPAL_CLIENT_ID || "AQW1wVihZyR-ogPj-SnJU-woZcMLCxWxgUZsnZNdYdceda9guxf7AKI07cBz9ZVJUcVfiNJL0NbiCHZI"
 
 const PayPalPaymentButton = ({
   session,
