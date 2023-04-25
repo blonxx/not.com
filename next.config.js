@@ -5,7 +5,7 @@ module.exports = withStoreConfig({
   features: store.features,
   reactStrictMode: true,
   images: {
-    domains: ["not-server-s3.s3.eu-west-1.amazonaws.com", "localhost"],
+    domains: ["not-server-s3.s3.amazonaws.com", "localhost"],
   },
 })
 
